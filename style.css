@@ -1,0 +1,100 @@
+#loading {
+
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    background: white url("loader/Hourglass.gif") no-repeat center;
+    z-index: 999999;
+}
+
+.jumbocss {
+    /* width: 100% !important; */
+    height: 60px !important;
+
+}
+
+
+
+.jumbotxt {
+    font-size: 30px !important;
+    font-family: cursive;
+
+}
+
+.addbtn {
+    font-family: cursive;
+    font-size: 18px !important;
+    border: none;
+    border-radius: 10px;
+
+}
+
+.addicn:hover {
+
+    font-size: 25px !important;
+    background-color: lightgray;
+    color: black !important;
+
+}
+
+.note:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.note {
+    background-color: white;
+    margin-top: 20px;
+}
+
+
+.edit {
+
+    font-size: 20px !important;
+    background-color: lightgreen !important;
+}
+
+.edit:hover {
+    font-size: 25px !important;
+    background-color: lightgray;
+    color: black !important;
+}
+
+.done {
+
+    font-size: 20px !important;
+    background-color: lightblue !important;
+}
+
+.done:hover {
+    font-size: 25px !important;
+    background-color: lightgray;
+    color: black !important;
+}
+
+.del {
+
+    font-size: 20px !important;
+    background-color: red !important;
+}
+
+.del:hover {
+    font-size: 25px !important;
+    background-color: lightgray;
+    color: black !important;
+}
+
+.textcss {
+    font-family: cursive !important;
+    font-weight: 500 !important;
+    border: 0px;
+    border-radius: 10px;
+    box-shadow: 10px 15px #353935;
+}
+
+.footercss {
+    font-family: cursive !important;
+    font-weight: 100 !important;
+    height: 50px;
+
+}
