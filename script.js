@@ -2,7 +2,7 @@
 let preLoader=document.getElementById("loading");
 
 function myfun(){
-    alert("loaded");
+    // alert("loaded");
     preLoader.style.display='none';
 
 
